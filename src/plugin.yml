@@ -1,0 +1,7 @@
+name: CommandWhitelist
+main: cc.isotopestudio.CommandWhitelist.CommandWhitelist
+
+author: Mars
+description: CommandWhitelist
+website: http://isotopestudio.cc
+version: 1.0.0
